@@ -1,4 +1,4 @@
-# Bài tập lớn môn học *Nhập môn học máy và khai phá dữ liệu*
+# Bài tập lớn môn học *Thị giác máy tính*
 ## Đề tài: Phân loại ảnh do AI tạo và ảnh thật
 ## Phương pháp thực hiện
 ### Mô hình
